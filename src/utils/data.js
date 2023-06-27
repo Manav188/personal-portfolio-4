@@ -14,12 +14,7 @@ export const projectExperience = [
     icon: CiMobile1,
     bg: "#EEC048",
   },
-  {
-    name: "Brand Identity",
-    projects: 47,
-    icon: MdWorkspacesOutline,
-    bg: "#F26440",
-  },
+
 ];
 
 export const WhatDoIHelp = [
@@ -29,92 +24,58 @@ export const WhatDoIHelp = [
 
 export const workExp = [
   {
-    place: "Self-Employed, Brisbane",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Visual Designer",
+    place: "Student, Sister Nivedita University",
+    tenure: "Aug 2019 - Jul 2022",
+    role: "Student",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "Completed Honours degree in Journalism and Mass Communication obtained good marks. I have learned a lot through the teachings of SNU. I’m grateful for their guidance and support.",
   },
   {
-    place: "New Man Services",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "UI/UX Designer",
+    place: "Reuters Journalism Certificate",
+    tenure: "Aug 2021",
+    role: "Certification",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      "This online training introduces participants to best practices in digital journalism. Using compelling images, and hands-on how-to guides.",
   },
   {
-    place: "Global Solution",
-    tenure: "Aug 2014 - Sep 2016",
-    role: "Sr. Product Designer",
+    place: "Subham Nari Shakti Mahila Kalyan Samiti",
+    tenure: "Aug 2021-June2022",
+    role: "Intern",
     detail:
-      "A visual desginer dsesign for a variety of platoforms, may include internet and internet sites, games, movies, kioasks and wearbies. In short, they create the concepts",
+      'I was assigned for 6 days weekly with daily affairs of the day and headlines of the day by our HOD . I was selected for the best performer during the month of December.'
   },
 ];
 
 export const comments = [
   {
-    name: "Anamika Sandula",
+    name: "Feroz ",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "your Blogs help me to get in touch with current news in detail",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Pratibha",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Your Blogs are really interesting",
     img: "./people1.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Ethesham",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "Thanks for helping me with your amazing knowledge",
     img: "./people2.png",
   },
   {
-    name: "Anamika Sandula",
+    name: "Priya",
     post: "Creative Manager",
     comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "She help me to get over my stage fear",
     img: "./people1.png",
   },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people1.png",
-  },
-  {
-    name: "Anamika Sandula",
-    post: "Creative Manager",
-    comment:
-      "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-    img: "./people2.png",
-  },
+
 ];
 
 export const sliderSettings = {
