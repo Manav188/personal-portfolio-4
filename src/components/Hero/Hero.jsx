@@ -19,9 +19,9 @@ const Hero = () => {
             I'm Fajila.
           </motion.span>
           <motion.span className="secondaryText"variants={fadeIn("left", "tween", 0.4, 1)}>
-            I design beautiful simple
+          Hardworking individual and easily adaptable to new 
             <br />
-            things, And I love what i do{" "}
+            environment, And I love what i do{" "}
           </motion.span>
         </div>
 
