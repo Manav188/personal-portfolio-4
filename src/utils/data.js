@@ -55,14 +55,14 @@ export const comments = [
     img: "./people2.png",
   },
   {
-    name: "Pratibha",
+    name: "Anjali",
     post: "Creative Manager",
     comment:
       "Your Blogs are really interesting",
     img: "./people1.png",
   },
   {
-    name: "Ethesham",
+    name: "Arjun",
     post: "Creative Manager",
     comment:
       "Thanks for helping me with your amazing knowledge",
