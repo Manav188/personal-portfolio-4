@@ -25,7 +25,7 @@ const Experties = () => {
             className={css.rightSide}>
 
                 <span className='primaryText'>About Me</span>
-                <span className='secondaryText' >Completed B.A Hons. in Journalism and Mass
+                <span className='secondaryText' >Completed M.A Hons. in Journalism and Mass
 Communication at Sister Nivedita University and,
 my main area of interests are news anchoring and
 radio production. In search of an opportunity to
